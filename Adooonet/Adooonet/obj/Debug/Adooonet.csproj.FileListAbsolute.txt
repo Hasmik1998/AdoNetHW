@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Adooonet\Adooonet\obj\Debug\Adooonet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Adooonet\Adooonet\obj\Debug\Adooonet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Adooonet\Adooonet\bin\Debug\Adooonet.exe.config
+C:\Users\User\source\repos\Adooonet\Adooonet\bin\Debug\Adooonet.exe
+C:\Users\User\source\repos\Adooonet\Adooonet\bin\Debug\Adooonet.pdb
+C:\Users\User\source\repos\Adooonet\Adooonet\obj\Debug\Adooonet.exe
+C:\Users\User\source\repos\Adooonet\Adooonet\obj\Debug\Adooonet.pdb
